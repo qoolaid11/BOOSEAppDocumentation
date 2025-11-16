@@ -1,0 +1,229 @@
+{
+  "source_base_path": "C:/MyDocs222",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSETests.AppDrawToTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSETests.AppDrawToTests.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSETests.AppDrawToTests",
+      "Summary": "<p sourcefile=\"api/BOOSETests.AppDrawToTests.yml\" sourcestartlinenumber=\"1\">Unit tests for the <xref href=\"BOOSEapp.AppCanvas\" data-throw-if-not-resolved=\"false\"></xref> DrawTo method.\nVerifies that drawing updates positions correctly and handles invalid coordinates.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSETests.AppMoveToTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSETests.AppMoveToTests.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSETests.AppMoveToTests",
+      "Summary": "<p sourcefile=\"api/BOOSETests.AppMoveToTests.yml\" sourcestartlinenumber=\"1\">Unit tests for the <xref href=\"BOOSEapp.AppCanvas\" data-throw-if-not-resolved=\"false\"></xref> MoveTo method.\nVerifies that moving the canvas updates positions and handles invalid coordinates.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSETests.Test1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSETests.Test1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSETests.Test1",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSETests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSETests.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSETests",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEapp.AppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEapp.AppCanvas.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEapp.AppCanvas",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEapp.AppCircle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEapp.AppCircle.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEapp.AppCircle",
+      "Summary": "<p sourcefile=\"api/BOOSEapp.AppCircle.yml\" sourcestartlinenumber=\"1\">A command that draws a circle on the canvas.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEapp.AppCommandFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEapp.AppCommandFactory.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEapp.AppCommandFactory",
+      "Summary": "<p sourcefile=\"api/BOOSEapp.AppCommandFactory.yml\" sourcestartlinenumber=\"1\">A new factory class for creating custom application commands.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEapp.AppMoveTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEapp.AppMoveTo.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEapp.AppMoveTo",
+      "Summary": "<p sourcefile=\"api/BOOSEapp.AppMoveTo.yml\" sourcestartlinenumber=\"1\">shows the <code>moveto</code> command which moves the canvas cursor\nto a new (x, y) position.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEapp.AppRect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEapp.AppRect.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEapp.AppRect",
+      "Summary": "<p sourcefile=\"api/BOOSEapp.AppRect.yml\" sourcestartlinenumber=\"1\">This command draws a rectangle on the canvas\nusing width and height in pixels.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEapp.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEapp.Form1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEapp.Form1",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BOOSEapp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BOOSEapp.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEapp",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
